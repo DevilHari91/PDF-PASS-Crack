@@ -1,0 +1,5 @@
+> In this project I was having Pass.py for generating Passkeys.
+> After generating the passkeys output file is created like all_dates.txt
+> crack.py Is the main code to crack the password of PDF with password reference all_dates.txt file
+> Executes on Terminal after saving the all files in one folder.
+  	- python crack.py
